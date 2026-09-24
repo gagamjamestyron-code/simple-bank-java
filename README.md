@@ -23,7 +23,6 @@ PIN: 1234
 Enter your account Details.
 Username: james
 Pin: 1234
-Access granted!
 
 Access granted!
 
